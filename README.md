@@ -1,4 +1,4 @@
-Arch Linux Chinese Community Repository88
+Arch Linux Chinese Community Repository888
 ====
 
 [![Packaging consistency check](https://github.com/archlinuxcn/repo/actions/workflows/test.yml/badge.svg)](https://github.com/archlinuxcn/repo/actions/workflows/test.yml)
